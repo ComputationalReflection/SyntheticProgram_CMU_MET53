@@ -1,0 +1,7 @@
+CMU-MET53;ClassA.java;4;METHOD_DEC;es.uniovi.reflection.met_53.noncompliant.ClassA:clone()java.lang.Object
+CMU-MET53;ClassB.java;4;METHOD_DEC;es.uniovi.reflection.met_53.noncompliant.ClassB:clone()es.uniovi.reflection.met_53.noncompliant.ClassB
+CMU-MET53;ClassC.java;4;METHOD_DEC;es.uniovi.reflection.met_53.noncompliant.ClassC:clone()es.uniovi.reflection.met_53.noncompliant.ClassA
+CMU-MET53;ClassE_ImplementsCustomInterface.java;6;METHOD_DEC;es.uniovi.reflection.met_53.noncompliant.ClassE_ImplementsCustomInterface:clone()java.lang.Object
+CMU-MET53;MET_53_CMU_Examples_Noncompliant.java;4;METHOD_DEC;es.uniovi.reflection.met_53.noncompliant.Base:clone()java.lang.Object
+CMU-MET53;SubClassA1.java;4;METHOD_DEC;es.uniovi.reflection.met_53.noncompliant.SubClassA1:clone()es.uniovi.reflection.met_53.noncompliant.ClassA
+CMU-MET53;SubClassA2.java;6;METHOD_DEC;es.uniovi.reflection.met_53.noncompliant.SubClassA2:clone()es.uniovi.reflection.met_53.compliant.ClassA
